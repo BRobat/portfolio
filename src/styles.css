@@ -5,11 +5,12 @@
 
 nav.navbar-dark{
     background-color: rgb(39, 39, 39)!important;
+    
 }
 
 body {
-    padding-top: 50px;
-    background-color: rgb(39, 39, 39)!important;
+    font-family: 'Lato', sans-serif;
+    padding-top: 25px;
     color: white;
     text-align: center;
 }

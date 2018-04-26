@@ -1,5 +1,23 @@
-
+.navbar-toggle {
+    float: left !important;
+    margin-left: 15px;
+  }
+  
+  .navbar-header.navbar-right.pull-right {
+    margin-right: 15px;
+  }
+  
+  .navbar-right > li {
+    float: left;
+  }
 
 a.navbar-brand {
+    
     color: white;
+}
+
+a.nav-link {
+    color: white;
+    font-weight: 300;
+    font-size: 20px;
 }
