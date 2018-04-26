@@ -1,2 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
 
+@import "~bootstrap/dist/css/bootstrap.css";
+
+
+nav.navbar-dark{
+    background-color: rgb(39, 39, 39)!important;
+}
+
+body {
+    padding-top: 50px;
+    background-color: rgb(39, 39, 39)!important;
+    color: white;
+    text-align: center;
+}
+
+
