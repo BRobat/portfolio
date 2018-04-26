@@ -1,10 +1,17 @@
 body {
+    
+
+      
     background-image: url(assets/solmyr.jpg);
-    background-size: cover;
     min-height: 200vh;
-    background-repeat: repeat;
     background-attachment: fixed;
+
+    
+    
+    
 }
+
+
 
 h1 {
     padding-top: 10vh;
@@ -18,10 +25,9 @@ div.planets{
 
 div.oblivion {
     background: none;
-    background-attachment: fixed;
     height: 100vh;
     z-index: 20;
-    position: relative;
+   
 }
 
 div.projects {
